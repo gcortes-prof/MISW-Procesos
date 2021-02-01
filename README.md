@@ -1,4 +1,4 @@
-# MISW-Procesos
+# Entregables del Inception
 
 + [Visión](vision.md)
 + [Alcance](alcance.md)

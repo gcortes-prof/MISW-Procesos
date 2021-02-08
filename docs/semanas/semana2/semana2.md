@@ -11,4 +11,4 @@ Los objetivos de la semana 2 son:
 
 | Actividad                                            |
 | ---------------------------------------------------- |
-|       |
+| << Descripción actividad >>      |

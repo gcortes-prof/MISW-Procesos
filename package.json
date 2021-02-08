@@ -1,5 +1,5 @@
 {
-  "name": "mt1_guias_proyecto",
+  "name": "MISW-Procesos",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TiCSw/mt1_guias_proyecto.git"
+    "url": "git+https://github.com/avargas20/MISW-Procesos.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TiCSw/mt1_guias_proyecto/issues"
+    "url": "https://github.com/avargas20/MISW-Procesos/issues"
   },
-  "homepage": "https://github.com/TiCSw/mt1_guias_proyecto#readme",
+  "homepage": "https://github.com/avargas20/MISW-Procesos#readme",
   "dependencies": {
     "showdown": "^1.9.1"
   }

@@ -1,4 +1,4 @@
-## Semana 2 - Inception (Parte 1)
+## Semana 8 - Cierre
 
 ### Objetivos
 
@@ -11,4 +11,4 @@ Los objetivos de la semana 2 son:
 
 | Actividad                                            |
 | ---------------------------------------------------- |
-| << Descripción actividad >>      |
+| [<< Descripción actividad >>](https://avargas20.github.io/MISW-Procesos/semanas/semana8/s8_actividad_1)      |

@@ -1,5 +1,5 @@
 
-## Semana 1 - Apropiación tecnológica: Implementación de API REST
+## Semana 1 - Implementación de API REST
 
 ### Objetivos
 

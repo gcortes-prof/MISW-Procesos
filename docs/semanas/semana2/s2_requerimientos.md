@@ -1,5 +1,5 @@
 
-## Semana 2 - Definición y priorización de PBL
+## Semana 2 - Definición y priorización del PBL
 
 ### Objetivos
 

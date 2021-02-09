@@ -1,5 +1,5 @@
 
-## Semana 1 - Constitución de equipo
+## Semana 1 - Constitución del equipo
 
 ### Objetivos
 

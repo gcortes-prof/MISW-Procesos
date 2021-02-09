@@ -2,7 +2,7 @@ Bienvenidos a la página con las guías para el desarrollo del proyecto del curs
 
 El material está organizado semana a semana.
 
-1. [Semana 1 - Introducción](https://avargas20.github.io/MISW-Procesos/introduccion)
+1. [Introducción](https://avargas20.github.io/MISW-Procesos/introduccion)
 2. [Semana 2 - Inception (Parte 1)](https://avargas20.github.io/MISW-Procesos/semanas/semana2/semana2)
 3. [Semana 3 - Inception (Parte 2)](https://avargas20.github.io/MISW-Procesos/semanas/semana3/semana3)
 4. [Semana 4 - Sprint 1 (Parte 1)](https://avargas20.github.io/MISW-Procesos/semanas/semana4/semana4)

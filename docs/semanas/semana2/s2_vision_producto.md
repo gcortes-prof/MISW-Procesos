@@ -1,5 +1,5 @@
 
-## Semana 2 - Actividad 1
+## Semana 2 - Visión del producto
 
 ### Objetivos
 

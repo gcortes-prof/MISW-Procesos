@@ -1,4 +1,4 @@
-## Semana 2 - Inception (Parte 1)
+## Semana 6 - Sprint 2 (Parte 1)
 
 ### Objetivos
 
@@ -11,4 +11,4 @@ Los objetivos de la semana 2 son:
 
 | Actividad                                            |
 | ---------------------------------------------------- |
-| << Descripción actividad >>      |
+| [<< Descripción actividad >>](https://avargas20.github.io/MISW-Procesos/semanas/semana6/s6_actividad_1)      |

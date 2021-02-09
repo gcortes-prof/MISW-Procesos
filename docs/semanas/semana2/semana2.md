@@ -11,4 +11,5 @@ Los objetivos de la semana 2 son:
 
 | Actividad                                            |
 | ---------------------------------------------------- |
-| [<< Descripción actividad >>](https://avargas20.github.io/MISW-Procesos/semanas/semana3/s3_actividad_1)      |
+| [Construcción de la visión del producto](https://avargas20.github.io/MISW-Procesos/semanas/semana3/s3_vision_producto)      |
+| [Definición y priorización del PBL](https://avargas20.github.io/MISW-Procesos/semanas/semana3/s3_requerimientos)      |

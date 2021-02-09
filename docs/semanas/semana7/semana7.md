@@ -1,4 +1,4 @@
-## Semana 2 - Inception (Parte 1)
+## Semana 7 - Sprint 2 (Parte 2)
 
 ### Objetivos
 
@@ -11,4 +11,4 @@ Los objetivos de la semana 2 son:
 
 | Actividad                                            |
 | ---------------------------------------------------- |
-| << Descripción actividad >>      |
+| [<< Descripción actividad >>](https://avargas20.github.io/MISW-Procesos/semanas/semana7/s7_actividad_1)      |

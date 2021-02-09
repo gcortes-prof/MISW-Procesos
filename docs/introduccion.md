@@ -1,7 +1,4 @@
-## Generalidades del proyecto
-
-
-**Semana 1 - Introducción**
+## Introducción
 
 **Semana 2 - Inception (Parte 1)**
 

@@ -1,5 +1,5 @@
 
-## Semana 2 - Actividad 1
+## Semana 7 - Actividad 1
 
 ### Objetivos
 

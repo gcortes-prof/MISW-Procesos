@@ -12,6 +12,6 @@ Los objetivos de la semana 2 son:
 |   | Actividades   |
 |---|---------------|
 |Conceptos   | [Visión del producto](https://avargas20.github.io/MISW-Procesos/semanas/semana1/s1_vision_producto)  |
-|            | [Revisión de los marcos de trabajo Scrum y DAD](https://avargas20.github.io/MISW-Procesos/semanas/semana1/s1_scrum_y_dad)|
+|            | [Revisión de los marcos de trabajo Scrum y DAD](https://avargas20.github.io/MISW-Procesos/semanas/semana1/s1_scrum_dad)|
 |Proyecto    | [Constitución del equipo](https://avargas20.github.io/MISW-Procesos/semanas/semana1/s1_equipo)  |
 |Apropiación tecnológica   | [Implementación de API REST](https://avargas20.github.io/MISW-Procesos/semanas/semana1/s1_api_rest)  |

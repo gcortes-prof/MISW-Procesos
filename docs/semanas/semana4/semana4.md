@@ -2,13 +2,17 @@
 
 ### Objetivos
 
-Los objetivos de la semana 2 son:
+Los objetivos de la semana 4 son:
 
 1. 
 2. 
  
 ### Resumen de las actividades
 
-| Actividad                                            |
-| ---------------------------------------------------- |
-| [<< Descripción actividad >>](https://avargas20.github.io/MISW-Procesos/semanas/semana4/s4_actividad_1)      |
+|   | Actividades   |
+|---|---------------|
+|Conceptos   | [Técnicas para realizar retrospectivas](https://avargas20.github.io/MISW-Procesos/semanas/semana4/s4_retrospectivas)  |
+|Proyecto    | [Planeación del sprint](https://avargas20.github.io/MISW-Procesos/semanas/semana4/s4_planeacion_sprint)  |
+|            | [Grooming](https://avargas20.github.io/MISW-Procesos/semanas/semana4/s4_grooming)|
+|            | [Desarrollo](https://avargas20.github.io/MISW-Procesos/semanas/semana4/s4_desarrollo)|
+|            | [Seguimiento](https://avargas20.github.io/MISW-Procesos/semanas/semana4/s4_seguimiento)|

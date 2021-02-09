@@ -2,7 +2,7 @@
 
 ### Objetivos
 
-Los objetivos de la semana 2 son:
+Los objetivos de la semana 1 son:
 
 1. 
 2. 

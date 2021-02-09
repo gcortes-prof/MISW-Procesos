@@ -11,6 +11,6 @@ Los objetivos de la semana 2 son:
 
 | Actividad                                            |
 | ---------------------------------------------------- |
-| [Construcción de la visión del producto]()      |
-| [Definición y priorización del PBL]()      |
+| [Constitución de equipo]()      |
+
 

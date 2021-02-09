@@ -9,8 +9,9 @@ Los objetivos de la semana 2 son:
  
 ### Resumen de las actividades
 
-| Actividad                                            |
-| ---------------------------------------------------- |
-| [Constitución de equipo]()      |
-
-
+|   | Actividades   |
+|---|---------------|
+|Conceptos   | [Visión del producto]()  |
+|            | [Revisión de los marcos de trabajo Scrum y DAD]()|
+|Proyecto    | [Constitución del equipo]()  |
+|Apropiación tecnológica   | [Implementación de API REST]()  |

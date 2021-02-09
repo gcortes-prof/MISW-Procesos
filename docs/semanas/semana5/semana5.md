@@ -1,15 +1,14 @@
-## Semana 5: Práctica de TDD
+## Semana 2 - Inception (Parte 1)
 
 ### Objetivos
 
-Utilizar la práctica de TDD para implementar algunas de las Historias de 
-Usuario del proyecto.
+Los objetivos de la semana 2 son:
 
-
-
+1. 
+2. 
+ 
 ### Resumen de las actividades
 
-| Actividad                                    |
-| -------------------------------------------- |
-| [Implementar usando TDD ](s5_tdd) |
-
+| Actividad                                            |
+| ---------------------------------------------------- |
+| << Descripción actividad >>      |

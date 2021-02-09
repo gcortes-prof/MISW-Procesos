@@ -1,16 +1,14 @@
-## Semana 8
-
+## Semana 2 - Inception (Parte 1)
 
 ### Objetivos
 
-Los objetivos de la semana 8 son:
+Los objetivos de la semana 2 son:
 
-1. Realizar el proceso de cierre de un proyecto.
-2. Analizar las prácticas vistas en el curso y aplicadas en el proyecto
+1. 
+2. 
+ 
+### Resumen de las actividades
 
-### Resumen de las Actividades
-
-| Actividad                                                |
-| -------------------------------------------------------- |
-| [Elaborar retrospectiva ](s8_retrospectiva)              |
-
+| Actividad                                            |
+| ---------------------------------------------------- |
+| << Descripción actividad >>      |

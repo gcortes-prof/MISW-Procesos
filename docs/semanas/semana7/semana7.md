@@ -1,15 +1,14 @@
-## Semana 7
+## Semana 2 - Inception (Parte 1)
 
 ### Objetivos
 
-El objetivo de la semana 7 es terminar la implementación Proyecto
+Los objetivos de la semana 2 son:
 
-### Resumen de las Actividades
+1. 
+2. 
+ 
+### Resumen de las actividades
 
-| Actividad                                 |
-| ----------------------------------------- |
-| [Flujo de trabajo e integración conínua](s7_flujosactions.md)|
-| [Implementar las HU ](s7_implementar.md)        |
-
-
-
+| Actividad                                            |
+| ---------------------------------------------------- |
+| << Descripción actividad >>      |

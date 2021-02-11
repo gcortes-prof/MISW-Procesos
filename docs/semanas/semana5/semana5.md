@@ -12,8 +12,8 @@ Los objetivos de la semana 5 son:
 |   | Actividades   |
 |---|---------------|
 |Conceptos   | [Revisión del marco de trabajo Lean](https://avargas20.github.io/MISW-Procesos/semanas/semana5/s5_lean)  |
-|Proyecto    | Grooming |
+|Proyecto    | [Grooming](https://avargas20.github.io/MISW-Procesos/semanas/semana5/s5_grooming) |
 |            | [Desarrollo](https://avargas20.github.io/MISW-Procesos/semanas/semana5/s5_desarrollo)|
-|            | [Seguimiento](https://avargas20.github.io/MISW-Procesos/semanas/semana5/s5_desarrollo)|
-|            | [Retrospectiva](https://avargas20.github.io/MISW-Procesos/semanas/semana5/s5_desarrollo)|
+|            | [Seguimiento](https://avargas20.github.io/MISW-Procesos/semanas/semana5/s5_seguimiento)|
+|            | [Retrospectiva](https://avargas20.github.io/MISW-Procesos/semanas/semana5/s5_retrospectiva)|
 |            | [Demostración](https://avargas20.github.io/MISW-Procesos/semanas/semana5/s5_demo)|

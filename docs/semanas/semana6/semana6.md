@@ -9,6 +9,11 @@ Los objetivos de la semana 2 son:
  
 ### Resumen de las actividades
 
-| Actividad                                            |
-| ---------------------------------------------------- |
-| [<< Descripción actividad >>](https://avargas20.github.io/MISW-Procesos/semanas/semana6/s6_actividad_1)      |
+|   | Actividades   |
+|---|---------------|
+|Conceptos   | [Refactoring](https://avargas20.github.io/MISW-Procesos/semanas/semana6/s6_refactoring)  |
+|Proyecto    | Planeación |
+|            | [Desarrollo](https://avargas20.github.io/MISW-Procesos/semanas/semana6/s6_desarrollo)|
+|            | [Seguimiento](https://avargas20.github.io/MISW-Procesos/semanas/semana6/s6_seguimiento)|
+
+

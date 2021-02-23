@@ -9,12 +9,8 @@ Los objetivos de la semana 2 son:
  
 ### Resumen de las actividades
 
-|   | Actividades   |
-|---|---------------|
-|Conceptos   | [Slicing de historias de usuario (HU)](https://avargas20.github.io/MISW-Procesos/semanas/semana2/s2_slicing)  |
-|            | [Planeación y estimación de HU](https://avargas20.github.io/MISW-Procesos/semanas/semana2/s2_planeacion)|
-|            | [Arquitectura de referencia](https://avargas20.github.io/MISW-Procesos/semanas/semana2/s2_arquitectura_de_referencia)|
-|Proyecto    | [Construcción de la visión del producto](https://avargas20.github.io/MISW-Procesos/semanas/semana2/s2_vision_producto)  |
-|            | [Definición y priorización del PBL](https://avargas20.github.io/MISW-Procesos/semanas/semana2/s2_requerimientos)  |
-|            | [Alistamiento del ambiente de desarrollo](https://avargas20.github.io/MISW-Procesos/semanas/semana2/s2_alistamiento)  |
-|Apropiación tecnológica   | [Tutorial sobre Flask](https://avargas20.github.io/MISW-Procesos/semanas/semana2/s2_flask)  |
+| Actividades   |
+|---------------|
+| [Presentación general del proyecto](https://avargas20.github.io/MISW-Procesos/semanas/semana2/s2_presentacion_proyecto)  |
+| [Visión del producto](https://avargas20.github.io/MISW-Procesos/semanas/semana2/s2_vision_producto)|
+| [Alistamiento del espacio para documentación y gestión del proyecto](https://avargas20.github.io/MISW-Procesos/semanas/semana2/s2_alistamiento)|

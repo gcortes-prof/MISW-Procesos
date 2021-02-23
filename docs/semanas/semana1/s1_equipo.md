@@ -1,5 +1,5 @@
 
-## Semana 1 - Constitución del equipo
+## Semana 1 - Generando acuerdos de equipo
 
 ### Objetivos
 
@@ -8,17 +8,12 @@
 * 
 * 
 
-### Pasos previos
-
----
-* 
-
 ### Descripción actividad
 
 ---
-#### ![](./../../assets/images/individuo.png) Actividad individual
+#### ![](./../../assets/images/grupo.png) Actividad grupal
 
-* 
+* Reunáse con
 * 
 * 
 * 
@@ -27,14 +22,14 @@
 ### Recursos 
 
 ---
-* 
-* 
+* Plantilla Canvas de equipo
+* Plantilla Matriz de capacidades de equipo
 
 ### Entregables
 
 ---
-* 
-* 
+* Canvas del equipo
+* Matriz de capacidades del equipo
 
 ### Criterios de evaluación
 

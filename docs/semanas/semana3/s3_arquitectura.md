@@ -11,10 +11,6 @@
 ### Descripción actividad
 
 ---
-#### ![](./../../assets/images/grupo.png) Actividad grupal
-
-* Realizar preguntas al usuario a través del foro
-* Realizar VSM individual
 
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 

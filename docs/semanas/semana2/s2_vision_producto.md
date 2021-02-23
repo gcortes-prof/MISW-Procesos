@@ -16,7 +16,7 @@
 ### Descripción actividad
 
 ---
-#### ![](./../../assets/images/individual.png) Actividad individual
+#### ![](./../../assets/images/individuo.png) Actividad individual
 
 * Realizar preguntas al usuario a través del foro
 * Realizar VSM individual

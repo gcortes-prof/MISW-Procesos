@@ -13,4 +13,4 @@ Los objetivos de la semana 2 son:
 |---------------|
 | [Presentación general del proyecto](https://avargas20.github.io/MISW-Procesos/semanas/semana2/s2_presentacion_proyecto)  |
 | [Visión del producto](https://avargas20.github.io/MISW-Procesos/semanas/semana2/s2_vision_producto)|
-| [Alistamiento del espacio para documentación y gestión del proyecto](https://avargas20.github.io/MISW-Procesos/semanas/semana2/s2_alistamiento)|
+| [Alistamiento del espacio para gestión y documentación del proyecto](https://avargas20.github.io/MISW-Procesos/semanas/semana2/s2_alistamiento)|

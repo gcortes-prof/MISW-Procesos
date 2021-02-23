@@ -20,17 +20,20 @@
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
 * 
+*
 
 
 ### Recursos 
 
 ---
 * 
+*
 
 ### Entregables
 
 ---
 * 
+*
 
 ### Criterios de evaluación
 

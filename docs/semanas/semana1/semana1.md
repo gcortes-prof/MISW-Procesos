@@ -11,4 +11,4 @@ Los objetivos de la semana 1 son:
 
 | Actividades   |
 |---------------|
-| [Generando acuerdos de equipo](https://avargas20.github.io/MISW-Procesos/semanas/semana1/s1_vision_producto)  |
+| [Generando acuerdos de equipo](https://avargas20.github.io/MISW-Procesos/semanas/semana1/s1_equipo)  |

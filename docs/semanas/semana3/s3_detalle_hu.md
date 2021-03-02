@@ -9,7 +9,7 @@
 ### Pasos previos
 
 ---
-* Participar de la reunión de priorización del PBL
+* Participar en la reunión de priorización del PBL
 
 ### Descripción actividad
 
@@ -17,7 +17,7 @@
 
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
-* Distribuir entre los integrantes del grupo las historias del tope de la pila para su detalle
+* Distribuir entre los integrantes del grupo las historias que se encuentran con mayor prioridad en el PBL
 
 
 #### ![](./../../assets/images/individuo.png) Actividad individual
@@ -29,7 +29,6 @@
 ### Recursos 
 
 ---
-* [Formato para detalle de HU](https://ticsw.github.io/mt1_practicas_guias_proyecto/semanas/semana3/MT1PEA-FM-DetalleHU)
 * Formato para Criterio de Ready 
 * Ejemplo de definición de Criterio de Ready
 

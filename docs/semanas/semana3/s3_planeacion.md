@@ -30,7 +30,7 @@
 ### Recursos 
 
 ---
-* Formato para cálculo de velocidad del equipo
+* [Formato para cálculo de velocidad del equipo](https://uniandes.sharepoint.com/:x:/s/mod/EaFGVWA394xLlQW062vwKBMBzqxOKxb2z7Y_u-KZ84bHDQ?e=2CMAnO)
 * Instructivo para conducir una sesión de Planning Poker
 
 ### Entregables

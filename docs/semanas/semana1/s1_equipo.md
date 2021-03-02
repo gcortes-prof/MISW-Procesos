@@ -12,7 +12,7 @@
 ---
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
-* Reúnase con sus compañeros de equipo para diligenciar el Canvas de equipo y la Matriz de capacidades de acuerdo con los formatos proporcionadas
+* Reúnase con sus compañeros de equipo para diligenciar el Canvas de equipo y la Matriz de capacidades de acuerdo con los formatos proporcionados
 
 ### Recursos 
 
@@ -29,5 +29,6 @@
 ### Criterios de evaluación
 
 ---
-
+* El canvas de equipo permite identificar los acuerdos del equipo para el logro de un proposito común
+* La matriz de competencias contiene la información de Todos los integrantes del equipo
 

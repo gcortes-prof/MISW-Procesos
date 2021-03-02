@@ -4,8 +4,8 @@
 
 Los objetivos de la semana 2 son:
 
-1. 
-2. 
+1. Construir la visión de producto utilizando las técnicas estudiadas
+2. Realizar el alistamiento del espacio para la gestión y documentación del proyecto
  
 ### Resumen de las actividades
 

@@ -17,14 +17,14 @@
 ### Recursos 
 
 ---
-* Formato Canvas de equipo
-* Formato Matriz de capacidades de equipo
+* [Formato Canvas de equipo](https://miro.com/app/board/o9J_lR3VCv8=/)
+* [Formato Matriz de competencias de equipo](https://miro.com/app/board/o9J_lR28Sls=/)
 
 ### Entregables
 
 ---
 * Canvas del equipo
-* Matriz de capacidades del equipo
+* Matriz de competencias del equipo
 
 ### Criterios de evaluación
 

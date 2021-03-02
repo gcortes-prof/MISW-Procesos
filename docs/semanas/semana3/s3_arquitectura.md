@@ -36,4 +36,4 @@
 
 ---
 
-
+* El documento de arquitectura contiene las vistas y modelos definidos en la estructura proporcionada

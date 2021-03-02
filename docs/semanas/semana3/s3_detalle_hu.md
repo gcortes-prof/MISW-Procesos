@@ -4,14 +4,12 @@
 ### Objetivos
 
 ---
-* 
-* 
-* 
+* Detallar las Historias de usuario que se encuentran en la parte alta del PBL 
 
 ### Pasos previos
 
 ---
-* 
+* Participar de la reunión de priorización del PBL
 
 ### Descripción actividad
 
@@ -21,10 +19,11 @@
 
 * Distribuir entre los integrantes del grupo las historias del tope de la pila para su detalle
 
+
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
 * Detallar cada historia con la descripción, el mockup y los criterios de aceptación.
-* Cargar el detalle de las historias de usuario en la herramienta de gestión y documentación del proyecto
+* Cargar el detalle de las historias de usuario en *nombre de la herramienta*
 
 
 ### Recursos 
@@ -37,8 +36,7 @@
 ### Entregables
 
 ---
-* 
-*
+* URL al espacio del equipo en la herramienta de gestión y documentación del proyecto
 
 ### Criterios de evaluación
 

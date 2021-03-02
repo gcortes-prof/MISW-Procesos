@@ -3,9 +3,8 @@
 ### Objetivos
 
 ---
-* 
-* 
-* 
+* Estructurar el espacio para la gestión y documentación del proyecto en *Nombre de la herramienta*
+
 
 ### Pasos previos
 
@@ -17,8 +16,9 @@
 
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
-* Alistar la herramienta con información de miembros de equipo y organización de la documentación
-* Cargar las Épicas e Historias de Usuario del proyecto
+* Crear el proyecto en *Nombre de la herramienta* e invitar a los integrantes del equipo (incluya al profesor y tutor del curso)
+* Estructurar el espacio para la documentación del proyecto teniendo en cuenta la *guia* disponible en Recursos
+* Cargar en la herramienta la información de los miembros del equipo, las Épicas e Historias de Usuario del proyecto
 
 ### Recursos 
 

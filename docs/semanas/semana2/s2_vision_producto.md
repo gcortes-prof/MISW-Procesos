@@ -4,29 +4,27 @@
 ### Objetivos
 
 ---
-* 
-* 
-* 
+* Construir la visión de producto utilizando la técnica de Visual Story Mapping
 
 ### Pasos previos
 
 ---
-* Escuchar la entrevista con el usuario
+* Escuche con atención la entrevista al Product Owner(PO) y tome atenta nota
+* Si surgen preguntas o requieren aclaraciones del PO, escriban en el foro de *Preguntas al cliente*
 
 ### Descripción actividad
 
 ---
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
-* Realizar preguntas al usuario a través del foro
-* Realizar VSM individual
+* De forma individual realice la primera versión del VSM y PBL del proyecto
 
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
-* Realizar la construcción colectiva del VSM
-* El Product Owner de cada equipo debe participar en la reunión sincrónica para priorización de Historias de Usuario (preparar preguntas de priorizacion)
-* El resto de los integrantes del equipo se reune para hacer ejercicio de slicing sobre las HU que ya tienen
-* De acuerdo a la reunión de priorización ajustar VSM y definir listado inicial de HU (priorizado)
+* Cada grupo debe socializar las propuestas individuales y realizar la construcción colectiva del VSM y PBL del proyecto
+* El PO de cada equipo debe participar en la reunión sincrónica de priorización de Historias de Usuario
+* El resto de los integrantes del equipo debe realizar el ejercicio de slicing sobre las HU que tienen
+* De acuerdo a la reunión de priorización ajustar VSM y definir listado inicial de HU priorizado
 
 
 ### Recursos 

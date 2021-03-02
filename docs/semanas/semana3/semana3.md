@@ -4,8 +4,11 @@
 
 Los objetivos de la semana 3 son:
 
-1. 
-2. 
+1. Realizar el alistamiento del ambiente de desarrollo
+2. Diseñar la arquitectura del producto
+3. Detallar las historias de usuario con mayor prioridad en el PBL
+4. Realizar la estimación y planeación del proyecto utilizando las técnicas estudiadas
+5. Identificar los principales riesgos del proyecto y sus correspondientes acciones de contención y mitigación 
  
 ### Resumen de las actividades
 

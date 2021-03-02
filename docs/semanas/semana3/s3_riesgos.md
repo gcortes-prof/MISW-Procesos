@@ -31,5 +31,6 @@
 ### Criterios de evaluación
 
 ---
-
+* Se listan los riesgos del proyecto y se definen las acciones de contención y mitigación para los riesgos de alto impacto
+* El formato para definición de riesgos se encuentra en el espacio de documentación del proyecto
 

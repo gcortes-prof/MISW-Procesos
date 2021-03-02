@@ -12,13 +12,13 @@
 ---
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
-* Reúnase con sus compañeros de equipo para diligenciar el Canvas de equipo y la Matriz de capacidades de acuerdo con las plantillas proporcionadas
+* Reúnase con sus compañeros de equipo para diligenciar el Canvas de equipo y la Matriz de capacidades de acuerdo con los formatos proporcionadas
 
 ### Recursos 
 
 ---
-* Plantilla Canvas de equipo
-* Plantilla Matriz de capacidades de equipo
+* Formato Canvas de equipo
+* Formato Matriz de capacidades de equipo
 
 ### Entregables
 

@@ -21,8 +21,8 @@
    * Se deben tener en cuenta todas las actividades
 3. Estimar todo el PBL
    * Teniendo en cuenta la HU base seleccionada, cada equipo debe estimar las historias del PBL del proyecto, utilizando la técnica del planning poker
-   * Registrar el resultado de la estimación en el PBL en la herramienta de gestión y documentación del proyecto
-4. Cálcular la velocidad del equipo teniendo en cuenta el formato disponible en Recursos
+   * Registrar el resultado de la estimación en el PBL de la herramienta de gestión y documentación del proyecto
+4. Cálcular la velocidad del equipo (ver formato disponible en Recursos)
 5. Teniendo en cuenta la velocidad calculada y las estimaciones del PBL definir el alcance de cada sprint
    * Definir la distribución de historias por equipo para el primer Sprint
 

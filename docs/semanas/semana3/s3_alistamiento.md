@@ -34,3 +34,9 @@ Verificar el acceso de cada uno de los integrantes al repositorio asignado al eq
 
 ---
 * URL al espacio del equipo en la herramienta de gestión y documentación del proyecto
+
+### Criterios de evaluación
+---
+
+* Se evidencia en el repositorio de cada grupo la creación de las ramas permanentes de acuerdo con el flujo de trabajo seleccionado
+* La estrategia inicial de pruebas contempla pruebas unitarias y automatizadas con Cucumber

@@ -37,3 +37,4 @@
 ---
 
 * El documento de arquitectura contiene las vistas y modelos definidos en la estructura proporcionada
+* El documento de arquitectura se encuentra en el espacio para documentación del proyecto

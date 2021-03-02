@@ -4,9 +4,9 @@
 ### Objetivos
 
 ---
-* 
-* 
-* 
+* Identificar los riesgos del proyecto
+* Seleccionar los riesgos con mayor impacto a partir del analisis de la matriz de riesgos
+* Definir las acciones de contención y mitigación de los riesgos seleccionados
 
 ### Descripción actividad
 

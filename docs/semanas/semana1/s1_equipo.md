@@ -4,9 +4,8 @@
 ### Objetivos
 
 ---
-* 
-* 
-* 
+* Consolidar la cultura de equipo mediante la definición del Canvas de Equipo
+* Identificar las fortalezas y debilidades técnicas del equipo mediante la construcción de la Matriz de Competencias
 
 ### Descripción actividad
 

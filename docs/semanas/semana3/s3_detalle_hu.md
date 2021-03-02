@@ -5,6 +5,7 @@
 
 ---
 * Detallar las Historias de usuario que se encuentran en la parte alta del PBL 
+* Asegurar la calidad de las historias de usuario a través la inspección de las mismas
 
 ### Pasos previos
 
@@ -22,8 +23,14 @@
 
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
-* Detallar cada historia con la descripción, el mockup y los criterios de aceptación.
-* Cargar el detalle de las historias de usuario en *nombre de la herramienta*
+* Detallar Historias de Usuario:
+  * Detallar cada historia de usuario con la descripción, el mockup y los criterios de aceptación
+  * Cargar el detalle de las historias de usuario en la herramienta de gestión y documentación del proyecto
+
+* Revisar Historias de Usuario:
+  * Realizar la inspección de las historias de usuario detalladas por otro compañero teniendo en cuenta la [Lista de chequeo para la inspección de HU](https://ticsw.github.io/mt1_practicas_guias_proyecto/semanas/semana3/MT1PEA-GuiaInspeccionHU.pdf)
+  * Registrar el resultado de la inspección en la herramienta de gestión y documentación del proyecto
+  * Cada integrante del grupo corrige las historias que detalló con las observaciones que realizó su compañero en la inspección.
 
 
 ### Recursos 
@@ -31,6 +38,7 @@
 ---
 * Formato para Criterio de Ready 
 * Ejemplo de definición de Criterio de Ready
+* [Lista de chequeo para la inspección de HU](https://ticsw.github.io/mt1_practicas_guias_proyecto/semanas/semana3/MT1PEA-GuiaInspeccionHU.pdf)
 
 ### Entregables
 

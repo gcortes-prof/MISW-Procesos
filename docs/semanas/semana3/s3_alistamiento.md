@@ -6,6 +6,7 @@
 ---
 * Configurar el ambiente de desarrollo de cada uno de los integrantes del equipo
 * Definir el flujo de trabajo que el equipo va a utilizar sobre el manejador de versiones para iniciar la implementación del proyecto
+* Proponer la estrategia inicial de pruebas para el proyecto
 
 ### Pasos previos
 

@@ -34,5 +34,6 @@
 ### Criterios de evaluación
 
 ---
+* Se evidencia en la herramienta de gestión y documentación del proyecto la estructuración de la documentación, la información de los integrantes del grupo y las épicas e historias de usuario del proyecto
 
 

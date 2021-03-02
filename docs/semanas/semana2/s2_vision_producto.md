@@ -31,7 +31,7 @@
 
 ---
 * Entrevista con Product Owner
-* Plantilla VSM
+* [Plantilla VSM](https://miro.com/app/board/o9J_lSpupSE=/)
 
 ### Entregables
 

@@ -36,11 +36,11 @@
 ### Entregables
 
 ---
+* Cálculo de velocidad del equipo
 * Listado de HU propuestas para el primer Sprint
 * URL al espacio del equipo en la herramienta de gestión y documentación del proyecto
 
 ### Criterios de evaluación
 
 ---
-
-
+* En la herramienta de gestión y documentación del proyecto se evidencia la creación del primer sprint, las historias de usuario propuestas con la estimación realizada y el listado de actividades necesarias para su desarrollo

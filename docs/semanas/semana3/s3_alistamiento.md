@@ -20,7 +20,7 @@ Verificar el acceso de cada uno de los integrantes al repositorio asignado al eq
 * Realizar la instalación y configuración del ambiente de desarrollo de acuerdo con las instrucciones proporcionadas
 * Acordar el flujo de trabajo que se seguirá para la implementación y consignar el acuerdo en el formato [Flujo de trabajo](https://ticsw.github.io/mt1_practicas_guias_proyecto/semanas/semana4/MT1PEA-FM-FlujoDeTrabajo.html)
 * Definir la estrategia inicial de pruebas (tanto unitarias como automatizadas con Cucumber)
-* Documentar los acuerdos y la estrategia inicial de pruebas en la herramienta de gestión y documentación del proyecto
+* Documentar los acuerdos y la estrategia inicial de pruebas en **_Nombre de la herramienta_**
 
 
 ### Recursos 
@@ -33,8 +33,7 @@ Verificar el acceso de cada uno de los integrantes al repositorio asignado al eq
 ### Entregables 
 
 ---
-* URL al espacio del equipo en la herramienta de gestión y documentación del proyecto
-
+* URL al espacio del equipo en **_Nombre de la herramienta_**
 ### Criterios de evaluación
 ---
 

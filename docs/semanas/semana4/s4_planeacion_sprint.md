@@ -1,5 +1,5 @@
 
-## Semana 4 - Actividad 1
+## Semana 4 - Planeación del Sprint
 
 ### Objetivos
 

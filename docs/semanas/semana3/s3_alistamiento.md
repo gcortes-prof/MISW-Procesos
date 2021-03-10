@@ -26,7 +26,7 @@ Verificar el acceso de cada uno de los integrantes al repositorio asignado al eq
 ### Recursos 
 
 ---
-* Instrucciones de instalación del ambiente desde cero
+* Instrucciones de instalación del ambiente desde cero *(Pendiente)*
 * [Formato Flujo de trabajo](https://ticsw.github.io/mt1_practicas_guias_proyecto/semanas/semana4/MT1PEA-FM-FlujoDeTrabajo.html)
 
 

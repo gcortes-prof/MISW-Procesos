@@ -23,7 +23,7 @@
 ### Recursos 
 
 ---
-* Guía para organización de la documentación del proyecto
+* [Guía para organización de la documentación del proyecto](https://avargas20.github.io/MISW-Procesos/semanas/semana2/s2_organizacion_de_la_documentacion)
 * Tutorial de la herramienta para gestionar y documentar el proyecto (Pendiente por definir herramienta)
 
 ### Entregables

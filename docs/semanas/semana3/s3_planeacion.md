@@ -1,5 +1,5 @@
 
-## Semana 2 - Estimación y planeación
+## Semana 3 - Estimación y planeación
 
 ### Objetivos
 

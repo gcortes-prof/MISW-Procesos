@@ -31,7 +31,7 @@
 
 ---
 * [Formato para cálculo de velocidad del equipo](https://uniandes.sharepoint.com/:x:/s/mod/EaFGVWA394xLlQW062vwKBMBzqxOKxb2z7Y_u-KZ84bHDQ?e=2CMAnO)
-* Instructivo para conducir una sesión de Planning Poker
+* [Instructivo para conducir una sesión de Planning Poker](https://avargas20.github.io/MISW-Procesos/semanas/semana3/s3_planning_poker)
 
 ### Entregables
 

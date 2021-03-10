@@ -13,10 +13,10 @@
 
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
-* Realizar el diseño de la arquitectura del proyecto. Como mínimo:
-   * Hacer un diagrama de dominio del proyecto
-   * Hacer un diagrama de componentes donde represente el stack tecnológico utilizado
-   * Hacer un diagrama de navegación de interfaces
+* Realizar el diseño de la arquitectura del proyecto teniendo en cuenta la estructura del documento disponible en Recursos. Como mínimo se espera:
+   * Un diagrama de dominio del proyecto
+   * Un diagrama de componentes donde represente el stack tecnológico utilizado
+   * Un diagrama de navegación de interfaces
 
 * Cargar el documento de arquitectura en **_Nombre de la herramienta_**
 

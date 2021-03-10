@@ -24,7 +24,7 @@
 ### Recursos 
 
 ---
-* Estructura del documento de arquitectura
+* Estructura del documento de arquitectura (Pendiente definir de acuerdo con lo visto en clase con Dario Correal)
 
 
 ### Entregables

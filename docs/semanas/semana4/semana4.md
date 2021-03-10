@@ -4,15 +4,14 @@
 
 Los objetivos de la semana 4 son:
 
-1. 
-2. 
+1. Realizar la planeación detallada del Sprint
+2. Iniciar el primer Sprint de desarrollo teniendo en cuenta las prácticas vistas y los acuerdos establecidos
+3. Hacer seguimiento al avance de actividades en el sprint mediante la realización de Daily meetings y la actualización del tablero Kanban
  
 ### Resumen de las actividades
 
-|   | Actividades   |
-|---|---------------|
-|Conceptos   | [Técnicas para realizar retrospectivas](https://avargas20.github.io/MISW-Procesos/semanas/semana4/s4_retrospectivas)  |
-|Proyecto    | [Planeación del sprint](https://avargas20.github.io/MISW-Procesos/semanas/semana4/s4_planeacion_sprint)  |
-|            | [Grooming](https://avargas20.github.io/MISW-Procesos/semanas/semana4/s4_grooming)|
-|            | [Desarrollo](https://avargas20.github.io/MISW-Procesos/semanas/semana4/s4_desarrollo)|
-|            | [Seguimiento](https://avargas20.github.io/MISW-Procesos/semanas/semana4/s4_seguimiento)|
+| Actividades   |
+|---------------|
+|[Planeación del sprint](https://avargas20.github.io/MISW-Procesos/semanas/semana4/s4_planeacion_sprint)  |
+|[Desarrollo del proyecto](https://avargas20.github.io/MISW-Procesos/semanas/semana4/s4_desarrollo)|
+|[Seguimiento](https://avargas20.github.io/MISW-Procesos/semanas/semana4/s4_seguimiento)|

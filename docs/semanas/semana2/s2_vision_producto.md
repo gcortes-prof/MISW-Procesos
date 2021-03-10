@@ -9,8 +9,8 @@
 ### Pasos previos
 
 ---
-* Escuche con atención la entrevista al Product Owner(PO) y tome atenta nota
-* Si surgen preguntas o requieren aclaraciones del PO, escriban en el foro de *Preguntas al cliente*
+* Escuche con atención la entrevista con el Product Owner(PO) y tome atenta nota
+* Si surgen preguntas o requieren aclaraciones del PO, escriban en el foro de **Preguntas al cliente**
 
 ### Descripción actividad
 
@@ -24,13 +24,13 @@
 * Cada grupo debe socializar las propuestas individuales y realizar la construcción colectiva del VSM y PBL del proyecto
 * El PO de cada equipo debe participar en la reunión sincrónica de priorización de Historias de Usuario
 * El resto de los integrantes del equipo debe realizar el ejercicio de slicing sobre las HU que tienen
-* De acuerdo a la reunión de priorización ajustar VSM y definir listado inicial de HU priorizado
+* De acuerdo a la reunión de priorización ajustar el VSM y definir el listado inicial de HU priorizado
 
 
 ### Recursos 
 
 ---
-* Entrevista con Product Owner (Pendiente crear script para grabación de acuerdo con tema seleccionado)
+* Entrevista con Product Owner *(Pendiente crear script para grabación de acuerdo con tema seleccionado)*
 * [Plantilla VSM](https://miro.com/app/board/o9J_lQLM1Us=/)
 
 ### Entregables
@@ -43,5 +43,5 @@
 
 ---
 
-* El VSM contempla la identificación de usuarios, épicas o actividades, tareas, historias de usuario y releases del producto
+* El VSM contempla la identificación de usuarios, épicas o actividades generales, historias de usuario y releases del producto
 * El listado de historias de usuario se encuentra priorizado de acuerdo con reunión de priorización con PO

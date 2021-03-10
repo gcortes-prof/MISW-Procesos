@@ -24,7 +24,7 @@
 
 ---
 * Guía para organización de la documentación del proyecto
-* Tutorial de la herramienta para gestionar y documentar el proyecto
+* Tutorial de la herramienta para gestionar y documentar el proyecto (Pendiente por definir herramienta)
 
 ### Entregables
 

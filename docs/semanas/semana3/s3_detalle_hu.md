@@ -37,7 +37,7 @@
 
 ---
 * [Lista de chequeo para la inspección de HU](https://ticsw.github.io/mt1_practicas_guias_proyecto/semanas/semana3/MT1PEA-GuiaInspeccionHU.pdf)
-* [Guía para determinar la Definición de Listo (Definition of Ready - DoR)]((https://avargas20.github.io/MISW-Procesos/semanas/semana3/s3_DoR))
+* [Guía para determinar la Definición de Listo (Definition of Ready - DoR)](https://avargas20.github.io/MISW-Procesos/semanas/semana3/s3_DoR)
 
 
 ### Entregables

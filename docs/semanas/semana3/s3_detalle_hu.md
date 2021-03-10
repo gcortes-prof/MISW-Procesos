@@ -25,12 +25,12 @@
 
 * Detallar Historias de Usuario:
   * Detallar cada historia de usuario con la descripción, el mockup y los criterios de aceptación
-  * Cargar el detalle de las historias de usuario en la herramienta de gestión y documentación del proyecto
+  * Cargar el detalle de las historias de usuario en **_Nombre de la herramienta_**
 
 * Revisar Historias de Usuario:
   * Realizar la inspección de las historias de usuario detalladas por otro compañero teniendo en cuenta la [Lista de chequeo para la inspección de HU](https://ticsw.github.io/mt1_practicas_guias_proyecto/semanas/semana3/MT1PEA-GuiaInspeccionHU.pdf)
-  * Registrar el resultado de la inspección en la herramienta de gestión y documentación del proyecto
-  * Cada integrante del grupo corrige las historias que detalló con las observaciones que realizó su compañero en la inspección.
+  * Registrar el resultado de la inspección en **_Nombre de la herramienta_**
+  * Cada integrante del grupo corrige las historias que detalló con las observaciones que realizó su compañero en la inspección
 
 
 ### Recursos 
@@ -43,7 +43,7 @@
 ### Entregables
 
 ---
-* URL al espacio del equipo en la herramienta de gestión y documentación del proyecto
+* URL al espacio del equipo en **_Nombre de la herramienta_**
 
 ### Criterios de evaluación
 

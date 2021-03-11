@@ -13,8 +13,9 @@
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
 1. Escoger la historia de usuario base
-   * Escoger la HU base para el proyecto y definir los puntos de historia de usuario (PHU) que se le van a asignar (se recomienda que sea una historia de complejidad media y que implique desarrollo tanto en el backend como en el frontend)
+   * Escoger la HU base para el proyecto (se recomienda que sea una historia de complejidad media y que implique desarrollo tanto en el backend como en el frontend)
    * Identificar con detalle las actividades necesarias para desarrollar esta historia sobre la arquitectura propuesta
+   * Definir los puntos de historia de usuario (PHU) que se le van a asignar (se recomienda que sea un valor intermedio, generalmente 3 o 5)
    * Tener en cuenta los criterios para la definición de hecho (DoD)
 2. Estimar todo el PBL
    * Dada la HU base seleccionada, cada equipo debe estimar las historias de usuario del PBL del proyecto, utilizando la técnica de Planning Poker

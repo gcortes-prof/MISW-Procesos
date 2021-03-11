@@ -20,7 +20,7 @@
 
 * Todos los miembros del equipo deben participar en la reunión de planeación del Sprint
 * El equipo de desarrollo debe identificar las actividades necesarias para completar cada una de las HU del sprint y su tiempo estimado
-* Cargar esta información en el tablero Kanban de la herramienta de gestión del proyecto (en el mismo orden del PBL) con su respectivo responsable 
+* Cargar esta información en el tablero Kanban de **_Nombre de la herramienta_** (en el mismo orden del PBL) con su respectivo responsable 
 
 ### Entregables
 ---

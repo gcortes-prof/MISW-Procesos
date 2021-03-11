@@ -23,7 +23,7 @@ El Planning Poker es una técnica colaborativa para estimar historias de usuario
 
 * El Product Owner (PO) lee una historia de usuario y responde cualquier duda que tengan los miembros del equipo. Esto sirve para que todos tengan una comprensión en común de lo que hay que desarrollar
 * Cada miembro del equipo de desarrollo selecciona una carta con el puntaje que considere apropiado de acuerdo con la complejidad de la historia de usuario, cuando todos hayan seleccionado una carta, se descubren a la vez
-* Debatir en el equipo los puntajes mas bajos y más altos hasta conseguir la unanimidad
+* Debatir en el equipo los puntajes mas bajos y más altos y re-estimar hasta conseguir la unanimidad
 * Esto se repite con cada historia de usuario en el PBL
 
 ### Recursos 

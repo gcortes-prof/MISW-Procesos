@@ -12,18 +12,18 @@
 ---
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
-1. Escoger la historia de usuario base
+* Escoger la historia de usuario base
    * Escoger la HU base para el proyecto (se recomienda que sea una historia de complejidad media y que implique desarrollo tanto en el backend como en el frontend)
    * Identificar con detalle las actividades necesarias para desarrollar esta historia sobre la arquitectura propuesta
    * Definir los puntos de historia de usuario (PHU) que se le van a asignar (se recomienda que sea un valor intermedio, generalmente 3 o 5)
    * Tener en cuenta los criterios para la definición de hecho (DoD)
-2. Estimar todo el PBL
+* Estimar todo el PBL
    * Dada la HU base seleccionada, cada equipo debe estimar las historias de usuario del PBL del proyecto, utilizando la técnica de Planning Poker
    * Registrar el resultado de la estimación en el PBL de **_Nombre de la herramienta_**
-3. Cálculo de la velocidad del equipo
+* Cálculo de la velocidad del equipo
    * Utilizando la técnica de Planning Poker estimar en horas las actividades para desarrollar la HU base (se deben tener en cuenta todas las actividades)
    * Diligenciar el formato para cálculo de velocidad disponible en Recursos y cargarlo en **_Nombre de la herramienta_**
-5. Teniendo en cuenta la velocidad calculada y las estimaciones del PBL definir el alcance de cada sprint
+* Teniendo en cuenta la velocidad calculada y las estimaciones del PBL definir el alcance de cada sprint
    * Proponer un listado de historias de usuario candidatas para ser incluidas en el primer sprint
 
  

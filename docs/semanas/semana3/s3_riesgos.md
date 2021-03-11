@@ -13,9 +13,8 @@
 ---
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
-* Descargar el formato de definición de riesgos y diligenciarlo
-* Cargar el documento de definición de riesgos en la herramienta de gestión y documentación del proyecto
-
+* Descargar el formato de definición de riesgos y diligenciarlo en equipo
+* Cargar el documento de definición de riesgos en **_Nombre de la herramienta_**
 
 ### Recursos 
 
@@ -25,12 +24,11 @@
 ### Entregables
 
 ---
-* URL al espacio del equipo en la herramienta de gestión y documentación del proyecto
+* URL al espacio del equipo en **_Nombre de la herramienta_**
 
 
 ### Criterios de evaluación
 
 ---
 * Se listan los riesgos del proyecto y se definen las acciones de contención y mitigación para los riesgos de alto impacto
-* El formato para definición de riesgos se encuentra en el espacio de documentación del proyecto
-
+* El formato para definición de riesgos se encuentra en **_Nombre de la herramienta_**

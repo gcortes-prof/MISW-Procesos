@@ -1,10 +1,10 @@
 
-## Semana 4 - Realizar la planeación del Sprint
+## Semana 4 - Planeación del sprint
 
 ### Objetivos
 
 ---
-* Realizar la planeación del Sprint para lograr un entendimiento común de los miembros del equipo sobre las actividades que se van a desarrollar en el Sprint
+* Realizar la planeación del sprint para lograr un entendimiento común de los miembros del equipo sobre las actividades que se van a desarrollar en el Sprint
 
 
 ### Pasos previos
@@ -24,10 +24,10 @@
 
 ### Entregables
 ---
-* URL al espacio del equipo en la herramienta de gestión y documentación del proyecto
+* URL al espacio del equipo en **_Nombre de la herramienta_**
  
 
 ### Criterios de evaluación
 
 ---
-* Se evidencia la creación del tablero Kanban y la distribución de tareas en la herramienta de gestión y documentación del proyecto
+* Se evidencia la creación del tablero Kanban y la distribución de tareas en **_Nombre de la herramienta_**

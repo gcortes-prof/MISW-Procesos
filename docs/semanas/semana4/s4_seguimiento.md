@@ -12,13 +12,13 @@
 ---
 #### ![](./../../assets/images/individuo.png) Actividad individual
 
-* Mover las actividades en el tablero Kanban del proyecto a medida que cambian de estado *En progreso* o *Completadas*
-* Registrar los tiempos reales para cada actividad, esto le permitirá evaluar posteriormente la diferencia entre los tiempos estimados y los tiempos reales en el desarrollo
+* Mover las actividades en el tablero Kanban del proyecto a medida que cambian de estado **En progreso** o **Completadas**
+* Registrar los tiempos reales para cada actividad, esto le permitirá evaluar posteriormente la diferencia entre los tiempos estimados y los tiempos reales de desarrollo
 
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
 * Definir en equipo el horario y periodicidad que más se ajuste para la realización de daily meetings (se recomienda hacerlas mínimo 3 veces por semana)
-* Realizar las Daily meetings en los horarios definidos y teniendo en cuenta el instructivo disponible en Recursos
+* Realizar las daily meetings en los horarios definidos y teniendo en cuenta el instructivo disponible en Recursos
 * Cargar las evidencias de la realización de daily meetings en herramienta de gestión y documentación del proyecto
 
 ### Recursos 
@@ -29,8 +29,7 @@
 ### Entregables
 
 ---
-* URL al espacio del equipo en la herramienta de gestión y documentación del proyecto
-
+* URL al espacio del equipo en **_Nombre de la herramienta_**
 ### Criterios de evaluación
 
 ---

@@ -48,9 +48,9 @@
 ### Criterios de evaluación
 
 ---
-* El listado de las historias de usuario está completo con los responsables y su detalle
+* El listado de las historias de usuario está completo con su detalle
 * Cada detalle contiene la descripción, el mockup y los criterios de aceptación
-* Cada historia de usuario tiene la información de la revisión realizada por el integrante del equipo que no la detalló.
+* Cada historia de usuario tiene la información de la revisión realizada por el integrante del equipo que no la detalló
 * La revisión cubre cada uno de los elementos solicitados
-* En el caso donde se encontró algún problema en el detalle de la historia, esta fue corregida por el responsable.
+* En el caso donde se encontró algún problema en el detalle de la historia, esta fue corregida por el responsable
  

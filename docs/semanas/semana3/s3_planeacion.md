@@ -43,4 +43,4 @@
 ### Criterios de evaluación
 
 ---
-* En **_Nombre de la herramienta_** se evidencia la creación del primer sprint con las historias de usuario propuestas
+* En **_Nombre de la herramienta_** se evidencia la creación del primer sprint con las historias de usuario propuestas y el formato para cálculo de la velocidad del equipo

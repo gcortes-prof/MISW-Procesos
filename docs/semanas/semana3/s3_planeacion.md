@@ -16,7 +16,7 @@
    * Escoger la HU base para el proyecto (se recomienda que sea una historia de complejidad media y que implique desarrollo tanto en el backend como en el frontend)
    * Identificar con detalle las actividades necesarias para desarrollar esta historia sobre la arquitectura propuesta
    * Definir los puntos de historia de usuario (PHU) que se le van a asignar (se recomienda que sea un valor intermedio, generalmente 3 o 5)
-   * Tener en cuenta los criterios para la definición de hecho (DoD)
+   * Tener en cuenta los criterios del equipo para la [definición de hecho (DoD)](https://avargas20.github.io/MISW-Procesos/semanas/semana4/s4_DoD)
 * Estimar todo el PBL
    * Dada la HU base seleccionada, cada equipo debe estimar las historias de usuario del PBL del proyecto, utilizando la técnica de Planning Poker
    * Registrar el resultado de la estimación en el PBL en **_Nombre de la herramienta_**
@@ -32,6 +32,7 @@
 ---
 * [Instructivo para conducir una sesión de Planning Poker](https://avargas20.github.io/MISW-Procesos/semanas/semana3/s3_planning_poker)
 * [Formato para cálculo de velocidad del equipo](https://uniandes.sharepoint.com/:x:/s/mod/EaFGVWA394xLlQW062vwKBMBzqxOKxb2z7Y_u-KZ84bHDQ?e=2CMAnO)
+* [Guía de ejemplo para la Definición de Hecho (Definition of Done - DoD)](https://avargas20.github.io/MISW-Procesos/semanas/semana4/s4_DoD)
 
 ### Entregables
 

@@ -4,7 +4,7 @@
 ### Objetivos
 
 ---
-* Realizar la planeación del sprint para lograr un entendimiento común de los miembros del equipo sobre las actividades que se van a desarrollar en el Sprint
+* Realizar la planeación del sprint para lograr un entendimiento común de los miembros del equipo sobre las actividades que se van a desarrollar en el sprint
 
 
 ### Pasos previos

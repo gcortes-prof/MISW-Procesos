@@ -19,7 +19,7 @@
    * Tener en cuenta los criterios para la definición de hecho (DoD)
 * Estimar todo el PBL
    * Dada la HU base seleccionada, cada equipo debe estimar las historias de usuario del PBL del proyecto, utilizando la técnica de Planning Poker
-   * Registrar el resultado de la estimación en el PBL de **_Nombre de la herramienta_**
+   * Registrar el resultado de la estimación en el PBL en **_Nombre de la herramienta_**
 * Cálculo de la velocidad del equipo
    * Utilizando la técnica de Planning Poker estimar en horas las actividades para desarrollar la HU base (se deben tener en cuenta todas las actividades)
    * Diligenciar el formato para cálculo de velocidad disponible en Recursos y cargarlo en **_Nombre de la herramienta_**

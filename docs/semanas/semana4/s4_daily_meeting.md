@@ -13,7 +13,7 @@ El Daily Meeting es una reunión que busca aumentar la productividad y compromis
 * Deben participar todos los miembros del equipo de desarrollo y el Scrum Master
 * Su duración máxima es de 15 minutos
 * Se recomienda hacerla cada día del Sprint en el mismo horario
-* Los impedimentos deben ser gestionados por el Scrum Master, sin embargo, no es el objetivo de la reunión. Esto puede abordarse despúes en una sesión con los miembros interesados.
+* Los impedimentos deben ser gestionados por el Scrum Master, sin embargo, no es el objetivo de la reunión. Esto puede abordarse despúes en una sesión con los miembros interesados
 
 ### Instrucciones
 ---

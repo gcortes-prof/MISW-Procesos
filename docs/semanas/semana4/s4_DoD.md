@@ -14,7 +14,7 @@ La definición de hecho (DoD) consiste en un checklist con actividades que el eq
 
 ### Ejemplo
 ---
-El siguiente es un ejemplo de definición de hecho de acuerdo con Rubin (2013):
+El siguiente es un ejemplo de definición de hecho (Rubin, 2013):
 
 - Diseño revisado
 - Código completado
@@ -32,6 +32,6 @@ El siguiente es un ejemplo de definición de hecho de acuerdo con Rubin (2013):
 - Cumple criterios de aceptación
 - Desplegado en producción
 
-
+**_Estos criterios pueden variar dependiendo de la naturaleza del producto, las técnologias usadas, las restricciones de negocio, etc._**
 
 *Rubin, K. (2013). Essential Scrum- A practical guide to the most popular agile process. Estados Unidos: Addison Wesley*

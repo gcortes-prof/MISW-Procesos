@@ -17,10 +17,10 @@
    * Identificar con detalle las actividades necesarias para desarrollar esta historia sobre la arquitectura propuesta
    * Tener en cuenta los criterios para la definición de hecho (DoD)
 2. Estimar todo el PBL
-   * Teniendo en cuenta la HU base seleccionada, cada equipo debe estimar las historias de usuario del PBL del proyecto, utilizando la técnica de planning poker
+   * Dada la HU base seleccionada, cada equipo debe estimar las historias de usuario del PBL del proyecto, utilizando la técnica de Planning Poker
    * Registrar el resultado de la estimación en el PBL de **_Nombre de la herramienta_**
 3. Cálculo de la velocidad del equipo
-   * Utilizando la técnica de planning poker estimar en horas las actividades para desarrollar la HU base (se deben tener en cuenta todas las actividades)
+   * Utilizando la técnica de Planning Poker estimar en horas las actividades para desarrollar la HU base (se deben tener en cuenta todas las actividades)
    * Diligenciar el formato para cálculo de velocidad disponible en Recursos y cargarlo en **_Nombre de la herramienta_**
 5. Teniendo en cuenta la velocidad calculada y las estimaciones del PBL definir el alcance de cada sprint
    * Proponer un listado de historias de usuario candidatas para ser incluidas en el primer sprint

@@ -30,7 +30,7 @@
 * Revisar Historias de Usuario:
   * Realizar la inspección de las historias de usuario detalladas por otro compañero teniendo en cuenta la [Lista de chequeo para la inspección de HU](https://ticsw.github.io/mt1_practicas_guias_proyecto/semanas/semana3/MT1PEA-GuiaInspeccionHU.pdf)
   * Registrar el resultado de la inspección en **_Nombre de la herramienta_**
-  * Cada integrante del grupo corrige las historias que detalló con las observaciones que realizó su compañero en la inspección
+  * Cada integrante del grupo corrige las historias que detalló de acuerdo con las observaciones que realizó su compañero en la inspección
 
 
 ### Recursos 

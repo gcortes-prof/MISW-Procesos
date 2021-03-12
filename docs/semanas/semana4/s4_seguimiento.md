@@ -17,9 +17,9 @@
 
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
-* Definir en equipo el horario y periodicidad que más se ajuste para la realización de daily meetings (se recomienda hacerlas mínimo 3 veces por semana)
+* Definir en equipo el horario y periodicidad que más se ajuste para la realización de daily meetings (se recomienda hacerlas mínimo 3 veces por semana en el mismo horario)
 * Realizar las daily meetings en los horarios definidos y teniendo en cuenta el instructivo disponible en Recursos
-* Cargar las evidencias de la realización de daily meetings en herramienta de gestión y documentación del proyecto
+* Cargar las evidencias de la realización de daily meetings en **_Nombre de la herramienta_**
 
 ### Recursos 
 

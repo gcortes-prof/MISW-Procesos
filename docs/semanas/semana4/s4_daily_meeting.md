@@ -17,10 +17,10 @@ El Daily Meeting es una reunión que busca aumentar la productividad y compromis
 
 ### Instrucciones
 ---
-* Cada miembro del equipo de desarrollo debe responder a las siguientes preguntas:
+* En el orden que el equipo considere, cada miembro debe responder a las siguientes preguntas:
   * ¿Qué hizo ayer?
   * ¿Qué hará hoy?
   * ¿Qué impedimentos tiene?
- 
-
+* Mover las actividades en el tablero Kanban del proyecto a medida que se responde cada pregunta
+* Registrar los tiempos reales para cada actividad, con el fin de evaluar posteriormente la diferencia entre los tiempos estimados y los tiempos reales de desarrollo
 

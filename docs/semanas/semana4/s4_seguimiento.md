@@ -10,10 +10,6 @@
 ### Descripción actividad
 
 ---
-#### ![](./../../assets/images/individuo.png) Actividad individual
-
-* Mover las actividades en el tablero Kanban del proyecto a medida que cambian de estado **En progreso** o **Completadas**
-* Registrar los tiempos reales para cada actividad, esto le permitirá evaluar posteriormente la diferencia entre los tiempos estimados y los tiempos reales de desarrollo
 
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
@@ -33,5 +29,7 @@
 ### Criterios de evaluación
 
 ---
+* Las grabaciones de daily meetings se encuentran cargadas en **_Nombre de la herramienta_**
 * El estado del tablero Kanban del proyecto refleja el estado de las actividades durante el proceso
+
 

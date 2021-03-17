@@ -13,25 +13,21 @@
 
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
-* Definir en equipo el horario y periodicidad que más se ajuste para la realización de daily meetings (se recomienda hacerlas mínimo 3 veces por semana en el mismo horario)
-* Realizar las daily meetings en los horarios definidos y teniendo en cuenta el instructivo disponible en Recursos
-* Cargar las evidencias de la realización de daily meetings en **_Nombre de la herramienta_**
+* El equipo debe parar las actividades de desarrollo antes de la demostración (la versión entregada en el sprint 1 NO debe tener modificaciones después de este día)
+* Desplegar la versión en el ambiente de pruebas y garantizar que sea totalmente funcional
+* El equipo debe preparar la demostración para mostrar de forma eficiente el incremento terminado durante el sprint al Product Owner
 
-### Recursos 
 
----
-* [Instructivo para conducir la sesión de Daily meeting](https://avargas20.github.io/MISW-Procesos/semanas/semana4/s4_daily_meeting)
 
 ### Entregables
 
 ---
-* URL al espacio del equipo en **_Nombre de la herramienta_**
-
+* URL del repositorio en GitHub
+* URL del producto desplegado en Heroku
 
 ### Criterios de evaluación
 
 ---
-* Las grabaciones de daily meetings se encuentran cargadas en **_Nombre de la herramienta_**
-* El estado del tablero Kanban del proyecto refleja el estado de las actividades durante el proceso
+* El equipo presenta al PO cada una de las funcionalidades completadas y las 
 
 

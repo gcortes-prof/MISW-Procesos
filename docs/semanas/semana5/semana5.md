@@ -6,14 +6,15 @@ Los objetivos de la semana 5 son:
 
 1. 
 2. 
+3. Hacer seguimiento al avance de actividades del sprint mediante Daily meetings y tableros Kanban
+4. Presentar al cliente las historias de usuario completadas en forma de incremento de producto
  
 ### Resumen de las actividades
 
-|   | Actividades   |
-|---|---------------|
-|Conceptos   | [Revisión del marco de trabajo Lean](https://avargas20.github.io/MISW-Procesos/semanas/semana5/s5_lean)  |
-|Proyecto    | [Grooming](https://avargas20.github.io/MISW-Procesos/semanas/semana5/s5_grooming) |
-|            | [Desarrollo](https://avargas20.github.io/MISW-Procesos/semanas/semana5/s5_desarrollo)|
-|            | [Seguimiento](https://avargas20.github.io/MISW-Procesos/semanas/semana5/s5_seguimiento)|
-|            | [Retrospectiva](https://avargas20.github.io/MISW-Procesos/semanas/semana5/s5_retrospectiva)|
-|            | [Demostración](https://avargas20.github.io/MISW-Procesos/semanas/semana5/s5_demo)|
+| Actividades   |
+|---------------|
+|[Grooming de historias](https://avargas20.github.io/MISW-Procesos/semanas/semana5/s5_grooming)  |
+|[Desarrollo del proyecto](https://avargas20.github.io/MISW-Procesos/semanas/semana5/s5_desarrollo)|
+|[Seguimiento](https://avargas20.github.io/MISW-Procesos/semanas/semana5/s5_seguimiento)|
+|[Demostración del producto](https://avargas20.github.io/MISW-Procesos/semanas/semana5/s5_demo)|
+|[Retrospectiva](https://avargas20.github.io/MISW-Procesos/semanas/semana5/s5_retrospectiva)|

@@ -15,7 +15,7 @@
 
 * Todos los integrantes del equipo deben participar en la sesión de refinamiento con el Product Owner (PO)
 * Validar con el PO la prioridad de las historias de usuario (HU) del product backlog (PBL). Reorganizar, agregar o eliminar HU de acuerdo con sus prioridades
-* Detallar las HU del PBL. Es importante aprovechar la presencia del PO para resolver todas las inquietudes del equipo y detectar posibles dependencias entre historias
+* Detallar las HU del PBL (se recomienda aprovechar la presencia del PO para resolver todas las inquietudes del equipo y detectar posibles dependencias entre historias)
 * Cargar el detalle de las HU en **_Nombre de la herramienta_** y re-organizarlas dado el caso
 
 

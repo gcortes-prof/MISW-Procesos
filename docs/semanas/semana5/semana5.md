@@ -1,4 +1,4 @@
-## Semana 5 - Sprint 1 (Parte 2)
+## Semana 5 - Segunda semana del Sprint 1
 
 ### Objetivos
 

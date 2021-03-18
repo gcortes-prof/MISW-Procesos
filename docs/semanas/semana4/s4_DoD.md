@@ -1,20 +1,20 @@
 
-## Definición de hecho (Definition of Done - DoD)
+## Definición de terminado (Definition of Done - DoD)
 
 ### Objetivos
 
 ---
-* Proporcionar los criterios básicos para determinar la definición de hecho
+* Proporcionar los criterios básicos para determinar la definición de terminado
 
 
 ### Descripción 
 ---
-La definición de hecho (DoD) consiste en un checklist con actividades que el equipo debe realizar antes de considerar una historia como terminada
+La definición de terminado (DoD) consiste en un checklist con actividades que el equipo debe realizar antes de considerar una historia como terminada
 
 
 ### Ejemplo
 ---
-El siguiente es un ejemplo de definición de hecho (Rubin, 2013):
+El siguiente es un ejemplo de definición de terminado (Rubin, 2013):
 
 - Diseño revisado
 - Código completado

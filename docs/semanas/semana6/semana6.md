@@ -12,6 +12,6 @@ Los objetivos de la semana 6 son:
 
 | Actividades   |
 |---------------|
-|[Planeación del sprint](https://avargas20.github.io/MISW-Procesos/semanas/semana6/s6_planeacion)  |
+|[Planeación del sprint](https://avargas20.github.io/MISW-Procesos/semanas/semana6/s6_planeacion_sprint)  |
 |[Desarrollo del proyecto](https://avargas20.github.io/MISW-Procesos/semanas/semana6/s6_desarrollo)|
 |[Seguimiento](https://avargas20.github.io/MISW-Procesos/semanas/semana6/s6_seguimiento)|

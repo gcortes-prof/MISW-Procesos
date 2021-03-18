@@ -1,5 +1,4 @@
-## Semana 4 - Sprint 1 (Parte 1)
-
+## Semana 4 - Primera semana del Sprint 1
 ### Objetivos
 
 Los objetivos de la semana 4 son:

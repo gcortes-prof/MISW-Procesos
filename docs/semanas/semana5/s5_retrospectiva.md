@@ -13,15 +13,15 @@
 
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
-* Realizar la retrospectiva del sprint utilizando la técnica de Starfish
+* Realizar la retrospectiva del sprint utilizando la técnica de [Starfish](https://miro.com/app/board/o9J_lO1al0I=/)
 * Consignar el resultado en una presentación que contenga:
   * Imagen del starfish
   * Compromisos acordados
   * Aspectos a mejorar (seleccionar máximo 2) y acciones acordadas para mejorar
-  * Estadísticas del sprint
-  * HU teminadas y no terminadas
-  * Datos de tiempos estimados vs ejecutados por historia
-  * Burndown chart
+  * Datos del sprint
+    * HU teminadas y no terminadas
+    * Datos de tiempos estimados vs ejecutados por historia
+    * Burndown chart
   * Lecciones aprendidas
 * Cargar resultados de primera retrospectiva en **_Nombre de la herramienta_**
 
@@ -29,7 +29,7 @@
 
 ---
 
-* Plantilla Starfish
+* [Plantilla Starfish](https://miro.com/app/board/o9J_lO1al0I=/)
 
 
 ### Entregables
@@ -40,6 +40,5 @@
 ### Criterios de evaluación
 
 ---
-* Se evidencia 
-
+* La presentación evidencia el analisis del equipo sobre los aspectos
 

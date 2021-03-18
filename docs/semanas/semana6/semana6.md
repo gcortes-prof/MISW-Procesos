@@ -1,19 +1,17 @@
-## Semana 6 - Sprint 2 (Parte 1)
+## Semana 6 - Primera semana del Sprint 2
 
 ### Objetivos
 
 Los objetivos de la semana 6 son:
 
-1. 
-2. 
+* Realizar la planeación del sprint
+* Iniciar el segundo sprint de desarrollo teniendo en cuenta las prácticas vistas en el curso Prácticas Esenciales de Agilismo
+* Hacer seguimiento al avance de actividades del sprint mediante Daily meetings y tableros Kanban
  
 ### Resumen de las actividades
 
-|   | Actividades   |
-|---|---------------|
-|Conceptos   | [Refactorización de código](https://avargas20.github.io/MISW-Procesos/semanas/semana6/s6_refactoring)  |
-|Proyecto    | [Planeación](https://avargas20.github.io/MISW-Procesos/semanas/semana6/s6_planeacion) |
-|            | [Desarrollo](https://avargas20.github.io/MISW-Procesos/semanas/semana6/s6_desarrollo)|
-|            | [Seguimiento](https://avargas20.github.io/MISW-Procesos/semanas/semana6/s6_seguimiento)|
-
-
+| Actividades   |
+|---------------|
+|[Planeación del sprint](https://avargas20.github.io/MISW-Procesos/semanas/semana6/s6_planeacion)  |
+|[Desarrollo del proyecto](https://avargas20.github.io/MISW-Procesos/semanas/semana6/s6_desarrollo)|
+|[Seguimiento](https://avargas20.github.io/MISW-Procesos/semanas/semana6/s6_seguimiento)|

@@ -24,6 +24,7 @@
 ---
 
 * Tutorial Heroku
+* [Recomendaciones para la entrega](https://avargas20.github.io/MISW-Procesos/semanas/semana5/s5_recomendaciones)
 
 
 ### Entregables

@@ -16,7 +16,7 @@
 * El equipo debe parar las actividades de desarrollo antes de la demostración (la versión entregada en el sprint 1 NO debe tener modificaciones después de este día)
 * Crear el ambiente de pruebas en Heroku y desplegar la última versión del producto
 * Verificar que el ambiente se encuentre estable y la aplicación sea totalmente funcional
-* El equipo debe preparar la demostración para mostrar de forma eficiente el incremento terminado durante el sprint al Product Owner (PO)
+* El equipo debe preparar la demostración para mostrar de forma eficiente el incremento terminado durante el sprint al Product Owner (PO). Se recomienda reviar las recomendaciones disponibles en la sección de Recursos
 
 
 ### Recursos
@@ -25,6 +25,7 @@
 
 * Tutorial Heroku
 * [Recomendaciones para la entrega](https://avargas20.github.io/MISW-Procesos/semanas/semana5/s5_recomendaciones)
+* [Recomendaciones para la demostración](https://avargas20.github.io/MISW-Procesos/semanas/semana5/s5_recomendaciones_demo)
 
 
 ### Entregables

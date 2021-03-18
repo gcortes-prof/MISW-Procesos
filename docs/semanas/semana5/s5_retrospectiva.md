@@ -23,7 +23,7 @@
     * Datos de tiempos estimados vs ejecutados por historia
     * Burndown chart
   * Lecciones aprendidas
-* Cargar resultados de primera retrospectiva en **_Nombre de la herramienta_**
+* Cargar los resultados obtenidos en **_Nombre de la herramienta_**
 
 ### Recursos
 
@@ -40,5 +40,6 @@
 ### Criterios de evaluación
 
 ---
-* La presentación evidencia el analisis del equipo sobre los aspectos
+* La presentación evidencia la realización de la retrospectiva en equipo
+* La presentación se encuentra en **_Nombre de la herramienta_**
 

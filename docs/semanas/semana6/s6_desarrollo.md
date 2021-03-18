@@ -25,9 +25,9 @@
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
 * BadSmells:
- * Realizar la lectura del capítulo 3 del libro [Refactoring: Improving the Design of Existing Code, Martin Fowler](https://moodleinstitucional.uniandes.edu.co/pluginfile.php/45336/mod_label/intro/RefactoringCapitulo1-3.pdf)
- * Identificar los bad smells en el código de la aplicación y corregirlos
- * Elaborar una presentación donde se expliquen los bad smells identificados y muestren el antes y el despues del código corregido
+  * Realizar la lectura del capítulo 3 del libro [Refactoring: Improving the Design of Existing Code, Martin Fowler](https://moodleinstitucional.uniandes.edu.co/pluginfile.php/45336/mod_label/intro/RefactoringCapitulo1-3.pdf)
+  * Identificar los bad smells en el código de la aplicación y corregirlos
+  * Elaborar una presentación donde se expliquen los bad smells identificados y muestren el antes y el despues del código corregido
 
 
 ### Recursos
@@ -40,6 +40,7 @@
 
 ---
 * URL del repositorio del equipo en GitHub
+* Presentación de bad smells
 
 ### Criterios de evaluación
 

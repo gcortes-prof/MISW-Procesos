@@ -13,9 +13,10 @@
 
 #### ![](./../../assets/images/grupo.png) Actividad grupal
 
-* Los integrantes del equipo deben programar una reunión con el Product Owner (PO)
-* Validar con el PO la prioridad de las historias de usuario (HU). Reorganizar, agregar o eliminar HU de acuerdo con sus prioridades
-* Detallar las HU del PBL (se recomienda aprovechar la presencia del PO para resolver todas las inquietudes del equipo y detectar posibles dependencias entre historias)
+* El equipo debe realizar el grooming de las HU del proyecto. Para esto se proponen las siguientes actividades:
+  * Los integrantes del equipo deben programar una reunión con el Product Owner (PO)
+  * Validar con el PO la prioridad de las historias de usuario (HU). Reorganizar, agregar o eliminar HU de acuerdo con sus prioridades
+  * Detallar las HU del PBL (se recomienda aprovechar la presencia del PO para resolver todas las inquietudes del equipo y detectar posibles dependencias entre historias)
 * Cargar el detalle de las HU en **_Nombre de la herramienta_** y re-organizarlas dado el caso
 
 
